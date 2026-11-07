@@ -4,7 +4,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 
 ## Starten
 
-`Schleifchenturnier.html` auf einem Handy oder Laptop in einem Browser öffnen. Ein Webserver, eine Installation und eine Internetverbindung sind nicht erforderlich.
+`index.html` auf einem Handy oder Laptop in einem Browser öffnen. Ein Webserver, eine Installation und eine Internetverbindung sind nicht erforderlich.
 
 ## Funktionen
 
@@ -14,9 +14,9 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Personen in der aktuellen Aufstellung tauschen
 - Sieger erfassen und Ergebnisse später korrigieren
 - Rundenzeit ab Auslosung und Spieldauer bis zur Ergebniseingabe erfassen
-- Zentrierte Hallenansicht für einen großen Monitor im Vollbild anzeigen
-- Zwei Tabs im selben Browser halten Anzeige und Ergebniseingabe auf demselben Gerät aktuell
-- Schleifchen und Rangliste automatisch berechnen
+- Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten
+- Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell
+- Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
 - Turnierstand lokal speichern sowie als JSON-Backup exportieren und importieren
 - Rangliste und Turnierverlauf drucken oder als PDF sichern
 
@@ -26,4 +26,4 @@ Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **
 
 ## Dateien
 
-- `Schleifchenturnier.html` – vollständige Anwendung ohne externe Abhängigkeiten
+- `index.html` – vollständige Anwendung ohne externe Abhängigkeiten

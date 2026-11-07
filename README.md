@@ -12,6 +12,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Auf Handys über die feste Navigation unten zwischen den Bereichen wechseln; Backup oben sichern
 - Anzahl der Felder einstellen
 - Doppel und Pausen für jede Runde auslosen
+- Ab Runde 3 auf Wunsch bisherige Siege pro gespieltem Spiel für ausgeglichenere Doppel berücksichtigen
 - Personen in der aktuellen Aufstellung tauschen
 - Sieger erfassen und Ergebnisse später korrigieren
 - Rundenzeit ab Auslosung und Spieldauer bis zur Ergebniseingabe erfassen

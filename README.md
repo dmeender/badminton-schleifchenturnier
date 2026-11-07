@@ -13,6 +13,9 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Doppel und Pausen für jede Runde auslosen
 - Personen in der aktuellen Aufstellung tauschen
 - Sieger erfassen und Ergebnisse später korrigieren
+- Rundenzeit ab Auslosung und Spieldauer bis zur Ergebniseingabe erfassen
+- Zentrierte Hallenansicht für einen großen Monitor im Vollbild anzeigen
+- Zwei Tabs im selben Browser halten Anzeige und Ergebniseingabe auf demselben Gerät aktuell
 - Schleifchen und Rangliste automatisch berechnen
 - Turnierstand lokal speichern sowie als JSON-Backup exportieren und importieren
 - Rangliste und Turnierverlauf drucken oder als PDF sichern

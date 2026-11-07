@@ -22,7 +22,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 
 ## Datensicherung
 
-Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Nach jeder abgeschlossenen Runde empfiehlt sich ein Backup über **Backup exportieren**. Die heruntergeladene JSON-Datei kann über **Backup importieren** wieder geladen werden.
+Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **Backup sichern** in der oberen Leiste kann die Turnierleitung jederzeit eine JSON-Datei herunterladen, auch während einer laufenden Runde. Die Hallenansicht bietet denselben Knopf. Das Backup enthält auch bereits eingetragene Ergebnisse der aktuellen Runde und deren Startzeit. Die Datei kann über **Vorbereitung → Daten & Sicherung → Backup importieren** wieder geladen werden.
 
 ## Dateien
 

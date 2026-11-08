@@ -9,13 +9,15 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 ## Funktionen
 
 - Teilnehmende einzeln erfassen und ihre Spielstärke einschätzen
+- Teilnehmende per Namenssuche finden und bearbeiten
 - Auf Handys über die feste Navigation unten zwischen den Bereichen wechseln; Backup oben sichern
 - Anzahl der Felder einstellen
+- Anzahl der Felder zwischen Runden ändern; während einer offenen Runde bleibt sie gesperrt
 - Doppel und Pausen für jede Runde auslosen
 - Ab Runde 3 auf Wunsch bisherige Siege pro gespieltem Spiel für ausgeglichenere Doppel berücksichtigen
-- Personen in der aktuellen Aufstellung tauschen
-- Sieger erfassen und Ergebnisse später korrigieren
-- Rundenzeit ab Auslosung und Spieldauer bis zur Ergebniseingabe erfassen
+- Personen in der aktuellen Aufstellung tauschen; nach Rundenstart werden dabei Ergebnisse gelöscht und die Zeit neu gestartet
+- Sieger erfassen, eine versehentliche Eingabe kurz rückgängig machen und Ergebnisse später korrigieren
+- Rundenzeit nach der Auslosung manuell starten; Spieldauer bis zur Ergebniseingabe erfassen
 - Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten
 - Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
@@ -24,7 +26,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 
 ## Datensicherung
 
-Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **Backup sichern** in der oberen Leiste kann die Turnierleitung jederzeit eine JSON-Datei herunterladen, auch während einer laufenden Runde. Die Hallenansicht bietet denselben Knopf. Das Backup enthält auch bereits eingetragene Ergebnisse der aktuellen Runde und deren Startzeit. Die Datei kann über **Vorbereitung → Daten & Sicherung → Backup importieren** wieder geladen werden.
+Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **Backup sichern** in der oberen Leiste kann die Turnierleitung jederzeit eine JSON-Datei herunterladen, auch während einer laufenden Runde. Die Hallenansicht bietet denselben Knopf. Das Backup enthält auch bereits eingetragene Ergebnisse der aktuellen Runde und deren manuell gesetzte Startzeit. Die Datei kann über **Vorbereitung → Daten & Sicherung → Backup importieren** wieder geladen werden.
 
 ## Dateien
 

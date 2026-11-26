@@ -21,6 +21,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten
 - Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
+- Im Reiter Spieler eine Person suchen und ihren Rundenverlauf mit Partnern, Gegnern, Ergebnissen, Pausen und Spielzeiten ansehen
 - Turnierstand lokal speichern sowie als JSON-Backup exportieren und importieren
 - Rangliste und Turnierverlauf drucken oder als PDF sichern
 

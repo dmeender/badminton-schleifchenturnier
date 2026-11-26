@@ -16,11 +16,11 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Doppel und Pausen für jede Runde auslosen
 - Ab Runde 3 auf Wunsch bisherige Siege pro gespieltem Spiel für ausgeglichenere Doppel berücksichtigen
 - Personen in der aktuellen Aufstellung tauschen; nach Rundenstart werden dabei Ergebnisse gelöscht und die Zeit neu gestartet
-- Sieger erfassen, eine versehentliche Eingabe kurz rückgängig machen und Ergebnisse später korrigieren
+- Noch offene Spiele in der aktuellen Runde anzeigen; Sieger erfassen, eine versehentliche Eingabe kurz rückgängig machen und Ergebnisse später korrigieren
 - Eine offene Runde nach Bestätigung abbrechen; abgeschlossene Runden bleiben erhalten
 - Rundenzeit nach der Auslosung manuell starten, pausieren und fortsetzen; Pausenzeit zählt weder für die Runde noch für einzelne Spiele
-- Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten
-- Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell
+- Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten; Pause und fehlende Runde groß einblenden
+- Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell; mehrere Leitungstabs werden gewarnt und veraltete Änderungen beim Speichern abgefangen
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
 - Im Reiter Spieler eine Person suchen und ihren Rundenverlauf mit Partnern, Gegnern, Ergebnissen, Pausen und Spielzeiten ansehen
 - Turnierstand lokal speichern, letzte erfolgreiche Speicherzeit anzeigen sowie als JSON-Backup exportieren und importieren

@@ -21,7 +21,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Rundenzeit nach der Auslosung manuell starten, pausieren und fortsetzen; Pausenzeit zählt weder für die Runde noch für einzelne Spiele
 - Optionaler Zeitmodus mit 8 Minuten Standard und eigener Dauer je Runde; Countdown gilt für alle Felder, stoppt bei null und lässt sich verlängern
 - Bei Zeitablauf bleiben Ergebnisse manuell erfassbar; Hallenansicht zeigt „Zeit abgelaufen“ und kann nach Aktivierung einen Signalton ausgeben
-- Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten; noch nicht gestartete Runde, Pause und fehlende Runde groß einblenden
+- Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten; Status vor dem Start und bei Pause als Band über sichtbaren Feldern zeigen; fehlende Runde und Zeitablauf groß einblenden
 - Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell; mehrere Leitungstabs werden gewarnt und veraltete Änderungen beim Speichern abgefangen
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
 - Im Reiter Spieler eine Person suchen und ihren Rundenverlauf mit Partnern, Gegnern, Ergebnissen, Pausen und Spielzeiten ansehen

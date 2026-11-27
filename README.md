@@ -23,7 +23,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Optionaler Zeitmodus mit 8 Minuten Standard und eigener Dauer je Runde; Countdown gilt für alle Felder, stoppt bei null und lässt sich verlängern
 - Bei Zeitablauf bleiben Ergebnisse manuell erfassbar; Hallenansicht zeigt „Zeit abgelaufen“ und kann nach Aktivierung einen Signalton ausgeben
 - Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten; Status vor dem Start und bei Pause als Band über sichtbaren Feldern zeigen; fehlende Runde und Zeitablauf groß einblenden
-- Auf dem Beamer zwischen Flyer, Spielplan und Rangliste wechseln; die Rangliste zeigt zehn Personen pro Seite und berücksichtigt nur abgeschlossene Runden
+- Auf dem Beamer zwischen Flyer, Spielplan und Rangliste wechseln; der Ranglistenknopf öffnet bei Bedarf den Hallen-Tab, zeigt zehn Personen pro Seite und berücksichtigt nur abgeschlossene Runden
 - Beamer-Flyer vor der ersten Auslosung und zwischen Runden anzeigen; optional ein PNG-, JPG- oder WebP-Bild bis 1,5 MB wählen und zwischen Flyer und Spielplan überblenden
 - Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell; mehrere Leitungstabs werden gewarnt und veraltete Änderungen beim Speichern abgefangen
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten

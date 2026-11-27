@@ -9,6 +9,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 ## Funktionen
 
 - Teilnehmende einzeln erfassen und ihre Spielstärke einschätzen
+- Vorbereitung in drei einzeln aufklappbaren Schritten durchgehen; nach Turnierangaben und Teilnehmerliste jeweils bewusst zum nächsten Schritt wechseln
 - In der Vorbereitung zunächst zehn Teilnehmende anzeigen, bei Bedarf alle einblenden; Namenssuche und Bearbeitung erfassen weiterhin die gesamte Liste
 - Auf Handys über die feste Navigation unten zwischen den Bereichen wechseln; Backup oben sichern
 - Anzahl der Felder einstellen

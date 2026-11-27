@@ -22,6 +22,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 - Optionaler Zeitmodus mit 8 Minuten Standard und eigener Dauer je Runde; Countdown gilt für alle Felder, stoppt bei null und lässt sich verlängern
 - Bei Zeitablauf bleiben Ergebnisse manuell erfassbar; Hallenansicht zeigt „Zeit abgelaufen“ und kann nach Aktivierung einen Signalton ausgeben
 - Hallenansicht in einem zweiten Tab öffnen, auf einen großen Monitor ziehen und dort in Vollbild schalten; Status vor dem Start und bei Pause als Band über sichtbaren Feldern zeigen; fehlende Runde und Zeitablauf groß einblenden
+- Beamer-Flyer vor der ersten Auslosung und zwischen Runden anzeigen; optional ein PNG-, JPG- oder WebP-Bild bis 1,5 MB wählen und zwischen Flyer und Spielplan überblenden
 - Auf GitHub Pages halten sich zwei Tabs im selben Browser auf demselben Gerät automatisch aktuell; mehrere Leitungstabs werden gewarnt und veraltete Änderungen beim Speichern abgefangen
 - Schleifchen und Rangliste automatisch berechnen; Gesamtspielzeit und Durchschnitt je Person auswerten
 - Im Reiter Spieler eine Person suchen und ihren Rundenverlauf mit Partnern, Gegnern, Ergebnissen, Pausen und Spielzeiten ansehen
@@ -30,7 +31,7 @@ Offline nutzbare Turnierleitung für wechselnde Badminton-Doppel. Die gesamte An
 
 ## Datensicherung
 
-Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **Backup sichern** in der oberen Leiste kann die Turnierleitung jederzeit eine JSON-Datei herunterladen, auch während einer laufenden Runde. Die Hallenansicht bietet denselben Knopf. Das Backup enthält auch bereits eingetragene Ergebnisse der aktuellen Runde und deren manuell gesetzte Startzeit. Die Datei kann über **Vorbereitung → Daten & Sicherung → Backup importieren** wieder geladen werden.
+Der Browser speichert den Turnierstand lokal auf dem jeweiligen Gerät. Über **Backup sichern** in der oberen Leiste kann die Turnierleitung jederzeit eine JSON-Datei herunterladen, auch während einer laufenden Runde. Die Hallenansicht bietet denselben Knopf. Das Backup enthält auch bereits eingetragene Ergebnisse der aktuellen Runde, deren manuell gesetzte Startzeit und das ausgewählte Flyerbild. Die Datei kann über **Vorbereitung → Daten & Sicherung → Backup importieren** wieder geladen werden.
 
 ## Dateien
 
